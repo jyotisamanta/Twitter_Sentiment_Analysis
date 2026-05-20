@@ -1,1 +1,2 @@
-# Twitter_Sentiment_Analysis
+# Twitter_Sentiment_analysis
+Using Python,NLP and Twitter API
